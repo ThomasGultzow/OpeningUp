@@ -1,0 +1,1117 @@
+:: StoryTitle
+Opening Up finale beta
+
+
+:: StoryData
+{
+  "ifid": "F0F22C4F-2936-452B-9D20-034827EFC0FF",
+  "format": "Harlowe",
+  "format-version": "3.3.5",
+  "start": "Welcome",
+  "zoom": 0.6
+}
+
+
+:: \ General preference x stigmaEN Employee {"position":"5100,1225","size":"100,100"}
+''Part 3/3''
+
+Choose from the 2 statements below which one is most important to you.
+* [[I want to talk to someone from UM about my mental health issues.->If participants choose statement 1 3 Employee]]
+* [[I do not want to stress about what others think if they know I have mental health issues.->If participants choose statement 2 3 Employee]]
+[[I do not know which one I think is more important.->If participants do not know 3 Employee]]
+
+
+:: \ General preference x stigmaEN Student {"position":"3500,1225","size":"100,100"}
+''Part 3/3''
+
+Choose from the 2 statements below which one is most important to you.
+* [[I want to talk to someone from UM about my mental health issues.->If participants choose statement 1 3 Student]]
+* [[I do not want to stress about what others think if they know I have mental health issues.->If participants choose statement 2 3 Student]]
+[[I do not know which one I think is more important.->If participants do not know 3 Student]]
+
+
+:: (seksuele) Intimidatie, discriminatie of pesten {"position":"1400,600","size":"100,100"}
+Een vertrouwenspersoon is er om studenten te ondersteunen en een veilige ruimte te bieden waar ze hun zorgen, problemen of klachten kunnen delen. Of het nu gaat om persoonlijke kwesties, discriminatie, pesten, intimidatie of andere moeilijkheden, een vertrouwenspersoon staat klaar om te luisteren, te adviseren en te begeleiden. Heb je een vervelende situatie meegemaakt of ben je op een andere manier getuige geweest van ongewenst gedrag, dan is de vertrouwenspersoon degene bij wie je terecht kunt. 
+
+(link-repeat: "Klik hier") [(open-url: 'https://www.maastrichtuniversity.nl/nl/support/tijdens-je-studie/studentenbegeleiding/vertrouwenspersoon-voor-studenten')] voor meer informatie over de vertrouwenspersoon.
+
+Wil je ''andere contactgegevens'' bekijken? [[Klik hier->Contactgegevens Student]]
+Wil je een ''ander onderdeel'' van de keuzehulp bekijken? [[Klik hier->StudentNL]]
+Wil je naar het ''einde'' van de keuzehulp? [[Klik hier->Einde Student]]
+
+
+:: (sexual) Harassment, discrimination or bullying {"position":"4000,600","size":"100,100"}
+A confidential advisor is there to support students and provide a safe space where they can share their concerns, problems or complaints. Whether it concerns personal issues, discrimination, bullying, harassment or other difficulties, a confidential advisor is ready to listen, advise and guide. If you have experienced an unpleasant situation or witnessed undesirable behavior in another way, the confidential advisor is the person you can turn to.
+
+(link-repeat: "Click here") [(open-url: 'https://www.maastrichtuniversity.nl/support/during-your-studies/student-guidance/confidential-advisor-students')] for more information about the confidential advisor.
+
+Would you like to view ''other contact details''? [[Click here->Contact details Student]]
+Would you like to read ''another part'' of the decision aid? [[Click here->StudentEN]]
+Do you want to go to the ''end'' of the decision aid? [[Click here->End Student]]
+
+
+:: Algemene voorkeur x stigma Medewerker {"position":"2500,1225","size":"100,100"}
+''Deel 3/3''
+
+Kies uit de 2 stellingen hieronder welke voor jou het belangrijkst is.
+* [[Ik wil met iemand van de UM praten over mijn mentale problemen.->Als deelnemers stelling 1 kiezen 3 Medewerker]]
+* [[Ik wil geen stress ervaren over wat anderen denken als ze weten dat ik mentale problemen heb.->Als deelnemers stelling 2 kiezen 3 Medewerker]]
+[[Ik weet niet welke ik belangrijker vind.->Als deelnemers het niet weten 3 Medewerker]]
+
+
+:: Algemene voorkeur x stigma Student {"position":"900,1225","size":"100,100"}
+''Deel 3/3''
+
+Kies uit de 2 stellingen hieronder welke voor jou het belangrijkst is.
+* [[Ik wil met iemand van de UM praten over mijn mentale problemen.->Als deelnemers stelling 1 kiezen 3 Student]]
+* [[Ik wil geen stress ervaren over wat anderen denken als ze weten dat ik mentale problemen heb.->Als deelnemers stelling 2 kiezen 3 Student]]
+[[Ik weet niet welke ik belangrijker vind.->Als deelnemers het niet weten 3 Student]]
+
+
+:: Als deelnemers het niet weten 1 Medewerker {"position":"2375,850","size":"100,100"}
+Je lijkt niet te weten of je het belangrijker vindt hulp en steun te krijgen bij je mentale problemen door met iemand binnen de UM te praten, of je geen zorgen te maken over wat anderen van jou denken als ze weten van je mentale problemen.
+
+[[Volgende->Normalisering x stigma Medewerker]]
+
+
+:: Als deelnemers het niet weten 1 Student {"position":"775,850","size":"100,100"}
+Je lijkt niet te weten of je het belangrijker vindt hulp en steun te krijgen bij je mentale problemen door met iemand binnen de UM te praten, of je geen zorgen te maken over wat anderen van jou denken als ze weten van je mentale problemen.
+
+[[Volgende->Normalisering x stigma Student]]
+
+
+:: Als deelnemers het niet weten 2 Medewerker {"position":"2375,1100","size":"100,100"}
+Je lijkt niet te weten of je het belangrijker vindt om over je mentale problemen te praten om het stigma rond mentale problemen aan te pakken, of je niet druk te maken over wat anderen denken als ze weten van je mentale problemen.
+
+[[Volgende->Algemene voorkeur x stigma Medewerker]]
+
+
+:: Als deelnemers het niet weten 2 Student {"position":"775,1100","size":"100,100"}
+Je lijkt niet te weten of je het belangrijker vindt om over je mentale problemen te praten om het stigma rond mentale problemen aan te pakken, of je niet druk te maken over wat anderen denken als ze weten van je mentale problemen.
+
+[[Volgende->Algemene voorkeur x stigma Student]]
+
+
+:: Als deelnemers het niet weten 3 Medewerker {"position":"2375,1350","size":"100,100"}
+Je lijkt niet te weten of je het belangrijker vindt om met iemand binnen UM over je mentale problemen te praten, of geen stress te ervaren over wat anderen van je denken als zij weten van je mentale problemen. 
+
+Wil je een ''ander onderdeel'' van de keuzehulp bekijken? [[Klik hier->Medewerker]]
+Wil je naar het ''einde'' van de keuzehulp? [[Klik hier->Einde Medewerker]]
+
+
+:: Als deelnemers het niet weten 3 Student {"position":"775,1350","size":"100,100"}
+Je lijkt niet te weten of je het belangrijker vindt om met iemand binnen UM over je mentale problemen te praten, of geen stress te ervaren over wat anderen van je denken als zij weten van je mentale problemen.
+
+Wil je een ''ander onderdeel'' van de keuzehulp bekijken? [[Klik hier->StudentNL]]
+Wil je naar het ''einde'' van de keuzehulp? [[Klik hier->Einde Student]]
+
+
+:: Als deelnemers stelling 1 kiezen 1 Medewerker {"position":"2500,850","size":"100,100"}
+Je lijkt het belangrijker te vinden om hulp en steun te krijgen bij je mentale problemen door met iemand van de UM over je mentale problemen te praten, dan je zorgen te maken over wat anderen van je denken als zij weten van je mentale problemen.
+
+[[Volgende->Normalisering x stigma Medewerker]]
+
+
+:: Als deelnemers stelling 1 kiezen 1 Student {"position":"900,850","size":"100,100"}
+Je lijkt het belangrijker te vinden om hulp en steun te krijgen bij je mentale problemen door met iemand van de UM over je mentale problemen te praten, dan je zorgen te maken over wat anderen van je denken als zij weten van je mentale problemen.
+
+[[Volgende->Normalisering x stigma Student]]
+
+
+:: Als deelnemers stelling 1 kiezen 2 Medewerker {"position":"2500,1100","size":"100,100"}
+Je lijkt het belangrijker te vinden om over je mentale problemen te praten om het stigma rond mentale problemen aan te pakken, dan je druk te maken over wat anderen denken als zij weten van je mentale problemen.
+
+[[Volgende->Algemene voorkeur x stigma Medewerker]]
+
+
+:: Als deelnemers stelling 1 kiezen 2 Student {"position":"900,1100","size":"100,100"}
+Je lijkt het belangrijker te vinden om over je mentale problemen te praten om het stigma rond mentale problemen aan te pakken, dan je druk te maken over wat anderen denken als zij weten van je mentale problemen.
+
+[[Volgende->Algemene voorkeur x stigma Student]]
+
+
+:: Als deelnemers stelling 1 kiezen 3 Medewerker {"position":"2500,1350","size":"100,100"}
+Je lijkt het belangrijker te vinden om met iemand binnen UM over je mentale problemen te praten, dan stress te ervaren over wat anderen van je denken als zij weten van je mentale problemen.
+
+Wil je een ''ander onderdeel'' van de keuzehulp bekijken? [[Klik hier->Medewerker]]
+Wil je naar het ''einde'' van de keuzehulp? [[Klik hier->Einde Medewerker]]
+
+
+:: Als deelnemers stelling 1 kiezen 3 Student {"position":"900,1350","size":"100,100"}
+Je lijkt het belangrijker te vinden om met iemand binnen UM over je mentale problemen te praten, dan stress te ervaren over wat anderen van je denken als zij weten van je mentale problemen.
+
+Wil je een ''ander onderdeel'' van de keuzehulp bekijken? [[Klik hier->StudentNL]]
+Wil je naar het ''einde'' van de keuzehulp? [[Klik hier->Einde Student]]
+
+
+:: Als deelnemers stelling 2 kiezen 1 Medewerker {"position":"2625,850","size":"100,100"}
+Je lijkt het belangrijker te vinden om je geen zorgen te maken over wat anderen van je denken als ze weten van je mentale problemen, dan om hulp en steun te krijgen bij je mentale problemen door met iemand van de UM over je mentale problemen te praten.
+
+[[Volgende->Normalisering x stigma Medewerker]]
+
+
+:: Als deelnemers stelling 2 kiezen 1 Student {"position":"1025,850","size":"100,100"}
+Je lijkt het belangrijker te vinden om je geen zorgen te maken over wat anderen van je denken als ze weten van je mentale problemen, dan om hulp en steun te krijgen bij je mentale problemen door met iemand van de UM over je mentale problemen te praten.
+
+[[Volgende->Normalisering x stigma Student]]
+
+
+:: Als deelnemers stelling 2 kiezen 2 Medewerker {"position":"2625,1100","size":"100,100"}
+Je lijkt het belangrijker te vinden om je niet druk te maken over wat anderen denken als ze weten van je mentale problemen, dan over je mentale problemen te praten om het stigma rond mentale problemen aan te pakken.
+
+[[Volgende->Algemene voorkeur x stigma Medewerker]]
+
+
+:: Als deelnemers stelling 2 kiezen 2 Student {"position":"1025,1100","size":"100,100"}
+Je lijkt het belangrijker te vinden om je niet druk te maken over wat anderen denken als ze weten van je mentale problemen, dan over je mentale problemen te praten om het stigma rond mentale problemen aan te pakken.
+
+[[Volgende->Algemene voorkeur x stigma Student]]
+
+
+:: Als deelnemers stelling 2 kiezen 3 Medewerker {"position":"2625,1350","size":"100,100"}
+Je lijkt het belangrijker te vinden om je geen stress te ervaren over wat anderen van je denken als ze weten van je mentale problemen, dan om met anderen binnen de UM over je mentale problemen te praten.
+
+Wil je een ''ander onderdeel'' van de keuzehulp bekijken? [[Klik hier->Medewerker]]
+Wil je naar het ''einde'' van de keuzehulp? [[Klik hier->Einde Medewerker]]
+
+
+:: Als deelnemers stelling 2 kiezen 3 Student {"position":"1025,1350","size":"100,100"}
+Je lijkt het belangrijker te vinden om je geen stress te ervaren over wat anderen van je denken als ze weten van je mentale problemen, dan om met anderen binnen de UM over je mentale problemen te praten.
+
+Wil je een ''ander onderdeel'' van de keuzehulp bekijken? [[Klik hier->StudentNL]]
+Wil je naar het ''einde'' van de keuzehulp? [[Klik hier->Einde Student]]
+
+
+:: Another student who can support me {"position":"4000,800","size":"100,100"}
+Peer support revolves around the well-being of all students, with attention for each other. A peer supporter is a fellow student who is trained and guided to provide support in an informal way, without taking over the role of a counselor. You do not have to experience emotional problems to approach a peer supporter. They are there to listen and support you no matter what you are going through. If a peer supporter sees that you need more specialized help, they can refer you to other forms of support that better suit your needs.
+
+(link-repeat: "Click here") [(open-url: 'https://www.maastrichtuniversity.nl/wellbeing-movement-um/peer-support#peersupport')] for more information about peer support.
+
+In addition, you can always talk about your mental health issues with other fellow students if you prefer.
+
+Would you like to view ''other contact details''? [[Click here->Contact details Student]]
+Would you like to read ''another part'' of the decision aid? [[Click here->StudentEN]]
+Do you want to go to the ''end'' of the decision aid? [[Click here->End Student]]
+
+
+:: Contact details Employee {"position":"5400,400","size":"100,100"}
+UM offers various support options for employees, both within and outside UM.
+
+About what or with whom would you like to talk?
+* [[My work and working conditions.->Contact details work and working conditions]]
+* [[My mental health issues with other people within UM.->Contact details other people within UM]]
+When you talk to someone, clearly discuss whether the information you share will be kept confidential.
+
+You can always return to this page if you need to view other contact details.
+
+
+:: Contact details Student {"position":"3800,400","size":"100,100"}
+About what or with whom would you like to talk?
+* [[My wellbeing or mental health.->Wellbeing or mental health]]
+* [[A study-related problem.->Study-related problem]]
+* [[(sexual) Harassment, discrimination or bullying.->(sexual) Harassment, discrimination or bullying]]
+* [[Another student who can support me.->Another student who can support me]]
+When you talk to someone, clearly discuss whether the information you share will be kept confidential.
+
+You can always return to this page if you need to view other contact details.
+
+
+:: Contact details other people within UM {"position":"5600,500","size":"100,100"}
+''Confidential advisor''
+A confidential advisor is there to support employees and provide a safe space where they can share their concerns, problems or complaints. Whether it concerns personal issues, discrimination, bullying, harassment, mental problems or other difficulties, a confidential advisor is ready to listen, advise and guide. If you have experienced an unpleasant situation or witnessed undesirable behavior in another way, the confidential advisor is the person you can turn to.
+
+(link-repeat: "Click here") [(open-url: 'https://intranet.maastrichtuniversity.nl/en/um-employees/working-um-all-about-your-employment-0/safe-working-environment-0/confidential-advisor')] for more information about the confidential advisor.
+
+''Supervisor''
+If you have one, you can also talk to your supervisor. Your supervisor does not have to report the situation regarding your mental health to Human Resources (HR) or the occupational health and safety service.
+
+''Colleagues''
+You can also try to talk to your direct colleagues if you prefer.
+
+Would you like to view ''other contact details''? [[Click here->Contact details Employee]]
+Would you like to read ''another part'' of the decision aid? [[Click here->Employee]]
+Do you want to go to the ''end'' of the decision aid? [[Click here->End Employee]]
+
+
+:: Contact details work and working conditions {"position":"5600,300","size":"100,100"}
+''Occupational physician''
+The policy is that employees must make their own assessment of their mental complaints and, if necessary, schedule an appointment with a company doctor on the basis of this. This is particularly relevant as soon as you notice that these complaints form or will form a barrier to performing your work.
+
+(link-repeat: "Click here") [(open-url: 'https://umployee.maastrichtuniversity.nl/en/practical-information/company-doctor-and-working-conditions-consultation-hour')] for more information about the occupational physician.
+
+''Prevention employee''
+As a UM employee, you can receive support from a prevention employee. The prevention officers are available to support and advise you on issues related to working conditions.
+
+(link-repeat: "Click here") [(open-url: 'https://umployee.maastrichtuniversity.nl/en/practical-information/occupational-health-and-safety')] for more information about the prevention employee.
+
+Would you like to view ''other contact details''? [[Click here->Contact details Employee]]
+Would you like to read ''another part'' of the decision aid? [[Click here->Employee]]
+Do you want to go to the ''end'' of the decision aid? [[Click here->End Employee]]
+
+
+:: Contactgegevens Medewerker {"position":"2800,400","size":"100,100"}
+De UM biedt verschillende ondersteuningsmogelijkheden voor medewerkers, zowel binnen als buiten de UM.
+
+Waarover of met wie zou je graag willen praten?
+* [[Mijn werkzaamheden en arbeidsomstandigheden.->Contactgegevens werkzaamheden en arbeidsomstandigheden]]
+* [[Mijn mentale problemen met andere personen binnen de UM.->Contactgegevens andere personen binnen de UM]]
+
+Als je met iemand praat, bespreek dan duidelijk of de informatie die je deelt ook vertrouwelijk wordt behandeld.
+
+Je kan altijd teruggaan naar deze pagina als je behoefte hebt om andere contactgegevens te bekijken.
+
+
+:: Contactgegevens Student {"position":"1200,400","size":"100,100"}
+Waarover of met wie zou je graag willen praten?
+* [[Mijn welzijn of mentale gezondheid.->Welzijn of mentale gezondheid]]
+* [[Een studiegerelateerd probleem.->Studiegerelateerd probleem]]
+* [[(seksuele) Inditimidatie, discriminatie of pesten.->(seksuele) Intimidatie, discriminatie of pesten]]
+* [[Met een andere student die mij een luisterend oor kan bieden.->Een andere student die een luisterend oor kan bieden]]
+Als je met iemand praat, bespreek dan duidelijk of de informatie die je deelt ook vertrouwelijk wordt behandeld.
+
+Je kan altijd teruggaan naar deze pagina als je behoefte hebt om andere contactgegevens te bekijken.
+
+
+:: Contactgegevens andere personen binnen de UM {"position":"3000,500","size":"100,100"}
+''Vetrouwenspersoon''
+Een vertrouwenspersoon is er om medewerkers te ondersteunen en een veilige ruimte te bieden waar ze hun zorgen, problemen of klachten kunnen delen. Of het nu gaat om persoonlijke kwesties, discriminatie, pesten, intimidatie, mentale problemen of andere moeilijkheden, een vertrouwenspersoon staat klaar om te luisteren, te adviseren en te begeleiden. Heb je een vervelende situatie meegemaakt of ben je op een andere manier getuige geweest van ongewenst gedrag, dan is de vertrouwenspersoon degene bij wie je terecht kunt. 
+
+(link-repeat: "Klik hier") [(open-url: 'https://intranet.maastrichtuniversity.nl/nl/um-employees/werken-bij-de-um-alles-over-je-dienstverband/veilige-werkomgeving-0/vertrouwenspersoon#vertrouwenspersoon-medewerkers')] voor meer informatie over de vertrouwenspersoon.
+
+''Leidinggevende''
+Je kan ook praten met je leidinggevende, indien je die hebt. Je leidinggevende hoeft de situatie rondom je mentale gezondheid niet door te geven aan Human Resources (HR) of de arbodienst. 
+
+''Collega's''
+Je kan ook proberen te praten met je directe collega’s als je dat fijner vindt.
+
+Wil je ''andere contactgegevens'' bekijken? [[Klik hier->Contactgegevens Medewerker]]
+Wil je een ''ander onderdeel'' van de keuzehulp bekijken? [[Klik hier->Medewerker]]
+Wil je naar het ''einde'' van de keuzehulp? [[Klik hier->Einde Medewerker]]
+
+
+:: Contactgegevens werkzaamheden en arbeidsomstandigheden {"position":"3000,300","size":"100,100"}
+''Bedrijfsarts''
+Het beleid is dat medewerkers zelf een inschatting dienen te maken over hun mentale klachten en op basis hiervan indien nodig zelf een afspraak inplannen met een bedrijfsarts. Dit is met name relevant zodra je merkt dat deze klachten een barrière vormen of zullen gaan vormen om je werkzaamheden uit te voeren. 
+
+(link-repeat: "Klik hier") [(open-url: 'https://umployee.maastrichtuniversity.nl/praktische-informatie/bedrijfsarts-en-arbeidsomstandigheden-spreekuur')] voor meer informatie over de bedrijfsarts.
+
+''Preventiemedewerker''
+Als medewerker van de UM ontvang je ondersteuning van een preventiemedewerker. De preventiemedewerkers zijn beschikbaar om je te ondersteunen en te adviseren bij kwesties met betrekking tot arbeidsomstandigheden. 
+
+(link-repeat: "Klik hier") [(open-url: 'https://umployee.maastrichtuniversity.nl/praktische-informatie/arbo')] voor meer informatie over de preventiemedewerker.
+
+Wil je ''andere contactgegevens'' bekijken? [[Klik hier->Contactgegevens Medewerker]]
+Wil je een ''ander onderdeel'' van de keuzehulp bekijken? [[Klik hier->Medewerker]]
+Wil je naar het ''einde'' van de keuzehulp? [[Klik hier->Einde Medewerker]]
+
+
+:: Dringende hulp Medewerker {"position":"2700,200","size":"100,100"}
+Bel in geval van nood of levensbedreigende situaties 112.
+
+Beschikbare ondersteuning voor het geval je direct psychologische hulp nodig hebt:
+* (link-repeat: "Huisarts (binnen kantooruren)") [(open-url: 'https://www.maastrichtuniversity.nl/nl/support/tijdens-je-studie/studentenbegeleiding/psychische-ondersteuning/hoe-de-gezondheidszorg')]
+* (link-repeat: "Huisartsenpost (buiten kantooruren)") [(open-url: 'https://hapmaastricht.nl')]
+* (link-repeat: "Vetrouwenspersoon") [(open-url: 'https://intranet.maastrichtuniversity.nl/nl/um-employees/werken-bij-de-um-alles-over-je-dienstverband/veilige-werkomgeving-0/vertrouwenspersoon#vertrouwenspersoon-medewerkers')]
+* (link-repeat: "Suïcidale gedachten") [(open-url: 'https://www.maastrichtuniversity.nl/nl/su%C3%AFcidale-gedachten')]
+* (link-repeat: "Slachtofferhulp") [(open-url: 'https://www.slachtofferhulp.nl/')]
+* (link-repeat: "Huiselijk geweld of mishandeling") [(open-url: 'https://veiligthuis.nl/huiselijk-geweld-en-mishandeling/')]
+* (link-repeat: "113 Zelfmoordpreventie") [(open-url: 'https://www.113.nl/')]
+* (link-repeat: "Centrum Seksueel Geweld") [(open-url: 'https://centrumseksueelgeweld.nl/')]
+* (link-repeat: "Politie") [(open-url: 'https://www.politie.nl/')]
+
+
+:: Dringende hulp Student {"position":"700,200","size":"100,100"}
+Bel in geval van nood of levensbedreigende situaties 112.
+
+Beschikbare ondersteuning voor het geval je direct psychologische hulp nodig hebt:
+* (link-repeat: "Huisarts (binnen kantooruren)") [(open-url: 'https://www.maastrichtuniversity.nl/nl/support/tijdens-je-studie/studentenbegeleiding/psychische-ondersteuning/hoe-de-gezondheidszorg')]
+* (link-repeat: "Huisartsenpost (buiten kantooruren)") [(open-url: 'https://hapmaastricht.nl')]
+* (link-repeat: "Vetrouwenspersoon") [(open-url: 'https://www.maastrichtuniversity.nl/nl/support/tijdens-je-studie/studentenbegeleiding/vertrouwenspersoon-voor-studenten')]
+* (link-repeat: "Suïcidale gedachten") [(open-url: 'https://www.maastrichtuniversity.nl/nl/su%C3%AFcidale-gedachten')]
+* (link-repeat: "Slachtofferhulp") [(open-url: 'https://www.slachtofferhulp.nl/')]
+* (link-repeat: "Huiselijk geweld of mishandeling") [(open-url: 'https://veiligthuis.nl/huiselijk-geweld-en-mishandeling/')]
+* (link-repeat: "113 Zelfmoordpreventie") [(open-url: 'https://www.113.nl/')]
+* (link-repeat: "Centrum Seksueel Geweld") [(open-url: 'https://centrumseksueelgeweld.nl/')]
+* (link-repeat: "Politie") [(open-url: 'https://www.politie.nl/')]
+
+
+:: Een andere student die een luisterend oor kan bieden {"position":"1400,800","size":"100,100"}
+Peer support draait om het welzijn van alle studenten, met aandacht voor elkaar. Een peer supporter is een medestudent die getraind en begeleid wordt om op een informele manier ondersteuning te bieden, zonder de rol van een hulpverlener over te nemen. Je hoeft geen emotionele problemen te ervaren om een peer supporter te benaderen. Ze zijn er juist om te luisteren en je te steunen, ongeacht waar je mee zit. Als een peer supporter merkt dat je meer gespecialiseerde hulp nodig hebt, kunnen ze je doorverwijzen naar andere vormen van ondersteuning die beter passen bij jouw behoeften. 
+
+(link-repeat: "Klik hier") [(open-url: 'https://www.maastrichtuniversity.nl/nl/wellbeing-movement-um/peer-support#peersupport')] voor meer informatie over peer support.
+
+Wil je ''andere contactgegevens'' bekijken? [[Klik hier->Contactgegevens Student]]
+Wil je een ''ander onderdeel'' van de keuzehulp bekijken? [[Klik hier->StudentNL]]
+Wil je naar het ''einde'' van de keuzehulp? [[Klik hier->Einde Student]]
+
+
+:: Einde Medewerker {"position":"2500,1500","size":"100,100"}
+<div style="text-align: center;">
+    <img src="https://thomasgultzow.com/project/opening-up/logo_openingup_hufa16933836c787c9347980b49b3b2e10_57949_720x2500_fit_q75_h2_lanczos_3.webp" alt="Opening Up Logo" height="200" width="200"/>
+</div>
+
+Dit is het einde van de Opening Up keuzehulp. Je kan de keuzehulp altijd nog eens doorlopen. Ook kan je praten met je directe omgeving ''buiten de UM'' als je daar behoefte aan hebt.
+
+''Wij stellen het zeer op prijs als jij deelneemt aan onze wetenschappelijke evaluatie. Klik (link-repeat: "hier") [(open-url: 'https://maastrichtuniversity.eu.qualtrics.com/jfe/form/SV_e8m8zC700rMFCHc')] om deel te nemen.''
+
+Heb je dingend hulp nodig? [[Klik hier->Dringende hulp Medewerker]]
+
+
+:: Einde Student {"position":"900,1500","size":"100,100"}
+<div style="text-align: center;">
+    <img src="https://thomasgultzow.com/project/opening-up/logo_openingup_hufa16933836c787c9347980b49b3b2e10_57949_720x2500_fit_q75_h2_lanczos_3.webp" alt="Opening Up Logo" height="200" width="200"/>
+</div>
+
+Dit is het einde van de Opening Up keuzehulp. Je kan de keuzehulp altijd nog eens doorlopen. Ook kan je praten met je directe omgeving ''buiten de UM'' als je daar behoefte aan hebt. 
+
+''Wij stellen het zeer op prijs als jij deelneemt aan onze wetenschappelijke evaluatie. Klik (link-repeat: "hier") [(open-url: 'https://maastrichtuniversity.eu.qualtrics.com/jfe/form/SV_e8m8zC700rMFCHc')] om deel te nemen.''
+
+Heb je dingend hulp nodig? [[Klik hier->Dringende hulp Student]]
+
+
+:: Employee {"position":"5100,400","size":"100,100"}
+The decision aid consists of three parts. You can view one or more parts. The order in which you view the parts does not matter. Choose the parts you would like to read.
+* [[Experiences of pros and cons of (not) talking about your mental health issues.->Pros/cons Employee]]
+* [[Statements to figure out your preferences regarding (not) talking about mental health issues.->Statements employee]]
+* [[Contact details of people within UM that you could talk to.->Contact details Employee]]
+
+
+:: End Employee {"position":"5100,1500","size":"100,100"}
+<div style="text-align: center;">
+    <img src="https://thomasgultzow.com/project/opening-up/logo_openingup_hufa16933836c787c9347980b49b3b2e10_57949_720x2500_fit_q75_h2_lanczos_3.webp" alt="Opening Up Logo" height="200" width="200"/>
+</div>
+
+This is the end of the Opening Up decision aid. You can always go through the decision aid again. You can also talk to your immediate environment ''outside UM'' if you feel the need.
+
+''We would very much appreciate it if you would participate in our scientific evaluation. Click (link-repeat: "here") [(open-url: 'https://maastrichtuniversity.eu.qualtrics.com/jfe/form/SV_e8m8zC700rMFCHc')] to participate.''
+
+Do you need urgent help? [[Click here->Urgent help Employee]]
+
+
+:: End Student {"position":"3500,1500","size":"100,100"}
+<div style="text-align: center;">
+    <img src="https://thomasgultzow.com/project/opening-up/logo_openingup_hufa16933836c787c9347980b49b3b2e10_57949_720x2500_fit_q75_h2_lanczos_3.webp" alt="Opening Up Logo" height="200" width="200"/>
+</div>
+
+This is the end of the Opening Up decision aid. You can always go through the decision aid again. You can also talk to your immediate environment ''outside UM'' if you feel the need.
+
+''We would very much appreciate it if you would participate in our scientific evaluation. Click (link-repeat: "here") [(open-url: 'https://maastrichtuniversity.eu.qualtrics.com/jfe/form/SV_e8m8zC700rMFCHc')] to participate.''
+
+Do you need urgent help? [[Click here->Urgent help Student]]
+
+
+:: Functie {"position":"1700,100","size":"100,100"}
+Ben je een student of medewerker/PhD kandidaat aan de Universiteit Maastricht (UM)?
+
+* Ik ben een UM [[student->Introductie Student]].
+* Ik ben een UM [[medewerker/PhD kandidaat->Introductie Medewerker]].
+
+
+:: Function {"position":"4300,100","size":"100,100"}
+Are you a student or employee/PhD candidate at Maastricht University (UM)?
+
+* I am an UM [[student->Introduction Student]].
+* I am an UM [[employee/PhD candidate->Introduction Employee]].
+
+
+:: If participants choose statement 1 1 Employee {"position":"5100,850","size":"100,100"}
+You seem to find it more important to get help and support with your mental health issues by talking to someone from UM about your mental health issues, than to worry about what others think of you if they know about your mental health issues.
+
+[[Next->Normalisation x stigmaEN Employee]]
+
+
+:: If participants choose statement 1 1 Student {"position":"3500,850","size":"100,100"}
+You seem to find it more important to get help and support with your mental health issues by talking to someone from UM about your mental health issues, than to worry about what others think of you if they know about your mental health issues.
+
+[[Next->Normalisation x stigmaEN Student]]
+
+
+:: If participants choose statement 1 2 Employee {"position":"5100,1100","size":"100,100"}
+You seem to care more about addressing the stigma surrounding mental health issues by talking about your mental health issues, than concerning yourself with what others think when they know about your mental health issues.
+
+[[Next -> General preference x stigmaEN Employee]]
+
+
+:: If participants choose statement 1 2 Student {"position":"3500,1100","size":"100,100"}
+You seem to care more about addressing the stigma surrounding mental health issues by talking about your mental health issues, than concerning yourself with what others think when they know about your mental health issues.
+
+[[Next -> General preference x stigmaEN Student]]
+
+
+:: If participants choose statement 1 3 Employee {"position":"5100,1350","size":"100,100"}
+You seem to find it more important to talk to someone at UM about your mental health issues, than to stress about what others think of you if they know about your mental health issues.
+
+Would you like to read ''another part'' of the decision aid? [[Click here->Employee]]
+Do you want to go to the ''end'' of the decision aid? [[Click here->End Employee]]
+
+
+:: If participants choose statement 1 3 Student {"position":"3500,1350","size":"100,100"}
+You seem to find it more important to talk to someone at UM about your mental health issues, than to stress about what others think of you if they know about your mental health issues.
+
+Would you like to read ''another part'' of the decision aid? [[Click here->StudentEN]]
+Do you want to go to the ''end'' of the decision aid? [[Click here->End Student]]
+
+
+:: If participants choose statement 2 1 Employee {"position":"5225,850","size":"100,100"}
+You seem to find it more important not to worry about what others think of you if they know about your mental health issues, than to get help and support with your mental health issues by talking to someone from UM about your mental health issues.
+
+[[Next->Normalisation x stigmaEN Employee]]
+
+
+:: If participants choose statement 2 1 Student {"position":"3625,850","size":"100,100"}
+You seem to find it more important not to worry about what others think of you if they know about your mental health issues, than to get help and support with your mental health issues by talking to someone from UM about your mental health issues.
+
+[[Next->Normalisation x stigmaEN Student]]
+
+
+:: If participants choose statement 2 2 Employee {"position":"5225,1100","size":"100,100"}
+You seem to care more about not concerning youself with what others think when they know about your mental health issues, than addressing the stigma surrounding mental health issues by talking about your mental health issues.
+
+[[Next -> General preference x stigmaEN Employee]]
+
+
+:: If participants choose statement 2 2 Student {"position":"3625,1100","size":"100,100"}
+You seem to care more about not concerning yourself with what others think when they know about your mental health issues, than addressing the stigma surrounding mental health issues by talking about your mental health issues.
+
+[[Next -> General preference x stigmaEN Student]]
+
+
+:: If participants choose statement 2 3 Employee {"position":"5225,1350","size":"100,100"}
+You seem to find it more important not to stress about what others think of you if they know about your mental health issues, than to talk about your mental health issues with others at UM.
+
+Would you like to read ''another part'' of the decision aid? [[Click here->Employee]]
+Do you want to go to the ''end'' of the decision aid? [[Click here->End Employee]]
+
+
+:: If participants choose statement 2 3 Student {"position":"3625,1350","size":"100,100"}
+You seem to find it more important not to stress about what others think of you if they know about your mental health issues, than to talk about your mental health issues with others at UM.
+
+Would you like to read ''another part'' of the decision aid? [[Click here->StudentEN]]
+Do you want to go to the ''end'' of the decision aid? [[Click here->End Student]]
+
+
+:: If participants do not know 1 Employee {"position":"4975,850","size":"100,100"}
+You do not seem to know whether you think it is more important to get help and support with your mental health issues by talking to someone at UM, or not worrying about what others think of you if they know about your mental health issues.
+
+[[Next->Normalisation x stigmaEN Employee]]
+
+
+:: If participants do not know 1 Student {"position":"3375,850","size":"100,100"}
+You do not seem to know whether you think it is more important to get help and support with your mental health issues by talking to someone at UM, than not worrying about what others think of you if they know about your mental health issues.
+
+[[Next->Normalisation x stigmaEN Student]]
+
+
+:: If participants do not know 2 Employee {"position":"4975,1100","size":"100,100"}
+You do not seem to know whether you think it is more important to talk about your mental health issues to address the stigma surrounding mental health issues, or not concerning yourself with what others think when they know about your mental health issues.
+
+[[Next -> General preference x stigmaEN Employee]]
+
+
+:: If participants do not know 2 Student {"position":"3375,1100","size":"100,100"}
+You do not seem to know whether you think it is more important to talk about your mental health issues to address the stigma surrounding mental health issues, or not concerning yourself with what others think when they know about your mental health issues.
+
+[[Next -> General preference x stigmaEN Student]]
+
+
+:: If participants do not know 3 Employee {"position":"4975,1350","size":"100,100"}
+You do not seem to know whether you think it is more important to talk to someone from UM about your mental health issues, or not to stress about what others think of you if they know about your mental health issues.
+
+Would you like to read ''another part'' of the decision aid? [[Click here->Employee]]
+Do you want to go to the ''end'' of the decision aid? [[Click here->End Employee]]
+
+
+:: If participants do not know 3 Student {"position":"3375,1350","size":"100,100"}
+You do not seem to know whether you think it is more important to talk to someone from UM about your mental health issues, or not to stress about what others think of you if they know about your mental health issues.
+
+Would you like to read ''another part'' of the decision aid? [[Click here->StudentEN]]
+Do you want to go to the ''end'' of the decision aid? [[Click here->End Student]]
+
+
+:: Introductie Medewerker {"position":"2500,200","size":"100,100"}
+Welkom bij de Opening Up keuzehulp!
+
+De keuze tussen wel of niet praten over je mentale problemen binnen de Universiteit Maastricht (UM) kan (erg) lastig zijn. Het praten over je mentale problemen kan met zowel professionals als collega’s. Om je hierbij te helpen hebben we deze keuzehulp ontwikkeld. 
+
+De Opening Up keuzehulp kan je gebruiken zoals jij dat wilt. Je hoeft dus niet alle onderdelen op de website te bekijken. Je kan bijvoorbeeld voor- en nadelen bekijken die mensen ervaren bij het (niet) praten over hun mentale problemen binnen de UM. Daarnaast kun je aan de hand van stellingen achterhalen wat jij belangrijk vindt ten aanzien van de keuze om wel of niet te praten over je mentale problemen binnen de UM. Ook zijn er contactgegevens te vinden van mensen waarmee je binnen de UM kunt praten.
+
+We hopen dat de keuzehulp jou kan ondersteunen bij het maken van jouw keuze. 
+
+Het Opening Up team
+
+[[Volgende->Medewerker]]
+
+Heb je dringend hulp nodig? [[Klik hier->Dringende hulp Medewerker]]
+
+
+:: Introductie Student {"position":"900,200","size":"100,100"}
+Welkom bij de Opening Up keuzehulp!
+
+De keuze tussen wel of niet praten over je mentale problemen binnen de Universiteit Maastricht (UM) kan (erg) lastig zijn. Het praten over je mentale problemen kan met zowel professionals als medestudenten zijn. Om je hierbij te helpen hebben we deze keuzehulp ontwikkeld. 
+
+De Opening Up keuzehulp kan je gebruiken zoals jij dat wilt. Je hoeft dus niet alle onderdelen op de website te bekijken. Je kan bijvoorbeeld voor- en nadelen bekijken die mensen ervaren bij het (niet) praten over hun mentale problemen binnen de UM. Daarnaast kun je aan de hand van stellingen achterhalen wat jij belangrijk vindt ten aanzien van de keuze om wel of niet te praten over je mentale problemen binnen de UM. Ook zijn er contactgegevens te vinden van mensen waarmee je binnen de UM kunt praten.
+
+We hopen dat de keuzehulp jou kan ondersteunen bij het maken van jouw keuze. 
+
+Het Opening Up team
+
+[[Volgende->StudentNL]]
+
+Heb je dringend hulp nodig? [[Klik hier->Dringende hulp Student]]
+
+
+:: Introduction Employee {"position":"5100,200","size":"100,100"}
+Welcome to the Opening Up decision aid!
+
+The decision whether to talk about your mental health issues within Maastricht University (UM) can be (very) difficult. Talking about your mental health issues can be done with both professionals and colleagues. To help you with this, we developed this decision aid. 
+
+You can use the Opening Up decision aid the way you want, so you do not have to read all parts of the website. For example, you can look at the pros and cons that people experience when (not) talking about their mental health issues at UM. In addition, based on statements, you can discover what you consider important with regard to the decision whether to talk about your mental health issues at UM. Additionally, you can find contact details of people you can talk to at UM.
+
+We hope that the decision aid can support you in making your choice.
+
+The Opening Up team
+
+[[Next->Employee]]
+
+Do you need urgent help? [[Click here->Urgent help Employee]]
+
+
+:: Introduction Student {"position":"3500,200","size":"100,100"}
+Welcome to the Opening Up decision aid!
+
+The decision whether to talk about your mental health issues within Maastricht University (UM) can be (very) difficult. Talking about your mental health issues can be done with both professionals and fellow students. To help you with this, we developed this decision aid. 
+
+You can use the Opening Up decision aid the way you want, so you do not have to read all parts of the website. For example, you can look at the pros and cons that people experience when (not) talking about their mental health issues at UM. In addition, based on statements, you can discover what you consider important with regard to the decision whether to talk about your mental health issues at UM. Additionally, you can find contact details of people you can talk to at UM.
+
+We hope that the decision aid can support you in making your choice.
+
+The Opening Up team
+
+[[Next->StudentEN]]
+
+Do you need urgent help? [[Click here->Urgent help Student]]
+
+
+:: Literature Employee {"position":"4800,600","size":"100,100"}
+The literature confirms that the mentioned pros and cons can occur in practice, so be aware of this.
+
+The following sources have been used for the advantages and disadvantages that people have experienced: 
+* Biggs, D., Hovey, N., Tyson, P. J. & MacDonald, S. (2010). Employer and employment agency attitudes towards employing individuals with mental health needs. Journal of Mental Health, 19(6), 505-516. (link-repeat: "https://doi.org/10.3109/09638237.2010.507683") [(open-url: 'https://doi.org/10.3109/09638237.2010.507683')]
+* Brohan, E., Henderson, C., Wheat, K., Malcolm, E, Clement, S., Barley, E. A., Slade, M. & Thornicroft, G. (2012). Systematic review of beliefs, behaviours and influencing factors associated with disclosure of a mental health problem in the workplace. BMC Psychiatry, 12(11), 1-14. (link-repeat: "https://doi.org/10.1186/1471-244X-12-11") [(open-url: 'https://doi.org/10.1186/1471-244X-12-11')]
+* Henderson, C., Brohan, E., Clement, S., Williams, P., Lassman, F., Schauman, O., Dockery, L., Farrelly, S., Murray, J., Murphy, C., Slade, M. & Thornicroft, G. (2018). Decision aid on disclosure of mental health status to an employer: feasibility and outcomes of a randomised controlled trial. The Britisch Journal of Psychiatry, 203(5), 350-357. (link-repeat: "https://doi.org/10.1192/bjp.bp.113.128470") [(open-url: 'https://doi.org/10.1192/bjp.bp.113.128470')]
+* Hipes, C., Lucas, J., Phelan, J. C., White, R. C. (2016). The stigma of mental illness in the labor market. Social Science Research, 56, 16-25. (link-repeat: "https://doi.org/10.1016/j.ssresearch.2015.12.001") [(open-url: 'https://doi.org/10.1016/j.ssresearch.2015.12.001')]
+* McGahey, E., Waghorn, G., Lloyd, C., Morrissey, S., Williams, P. L. (2016). Formal plan for self-disclosure enhances supported employment outcomes among young people with severe mental illness. Early Intervention in Psychiatry, 10(2), 178-185. (link-repeat: "https://doi.org/10.1111/eip.12196") [(open-url: 'https://doi.org/10.1111/eip.12196')]
+* McGrath, M. O., Krysinska, K., Reavley, N. J., Andriessen, K. & Pirkis, J. (2023). Disclosure of Mental Health Problems or Suicidality at Work: A Systematic Review. International Journal of Environmental Research and Public Health, 20(5548), 1-19. (link-repeat: "https://doi.org/10.3390/ijerph20085548") [(open-url: 'https://doi.org/10.3390/ijerph20085548')]
+
+
+:: Literature Student {"position":"3200,600","size":"100,100"}
+The literature confirms that the mentioned pros and cons can occur in practice, so be aware of this.
+
+The following sources have been used for the advantages and disadvantages that people have experienced: 
+* Gulliver, A., Griffiths, K. M. & Christensen, H. (2010). Perceived barriers and facilitators to mental health help-seeking in young people: a systematic review. BMC Psychiatry, 10(113), 1-9. (link-repeat: "https://doi.org/10.1186/1471-244X-10-113") [(open-url: 'https://doi.org/10.1186/1471-244X-10-113')]
+* Moses, T. (2010). Being treated differently: Stigma experiences with family, peers, and school staff among adolescents with mental health disorders. Social Science & Medicine, 70(7), 985-993. (link-repeat: "https://doi.org/10.1016/j.socscimed.2009.12.022") [(open-url: 'https://doi.org/10.1016/j.socscimed.2009.12.022')]
+* Storrie, K. Ahern, K & Tuckett, A. A systematic review: Students with mental health problems - A growing problem. International Journal of Nursing Practice, 16, 1-6. (link-repeat: "https://doi.org/10.1111/j.1440-172X.2009.01813.x") [(open-url: 'https://doi.org/10.1111/j.1440-172X.2009.01813.x')]
+
+
+:: Literatuur Medewerker {"position":"2200,600","size":"100,100"}
+De literatuur bevestigt dat de genoemde voor- en nadelen in de praktijk kunnen voorkomen, wees je hiervan bewust.
+
+De volgende bronnen zijn gebruikt bij de voor- en nadelen die mensen hebben ervaren:
+* Biggs, D., Hovey, N., Tyson, P. J. & MacDonald, S. (2010). Employer and employment agency attitudes towards employing individuals with mental health needs. Journal of Mental Health, 19(6), 505-516. (link-repeat: "https://doi.org/10.3109/09638237.2010.507683") [(open-url: 'https://doi.org/10.3109/09638237.2010.507683')]
+* Brohan, E., Henderson, C., Wheat, K., Malcolm, E, Clement, S., Barley, E. A., Slade, M. & Thornicroft, G. (2012). Systematic review of beliefs, behaviours and influencing factors associated with disclosure of a mental health problem in the workplace. BMC Psychiatry, 12(11), 1-14. (link-repeat: "https://doi.org/10.1186/1471-244X-12-11") [(open-url: 'https://doi.org/10.1186/1471-244X-12-11')]
+* Henderson, C., Brohan, E., Clement, S., Williams, P., Lassman, F., Schauman, O., Dockery, L., Farrelly, S., Murray, J., Murphy, C., Slade, M. & Thornicroft, G. (2018). Decision aid on disclosure of mental health status to an employer: feasibility and outcomes of a randomised controlled trial. The Britisch Journal of Psychiatry, 203(5), 350-357. (link-repeat: "https://doi.org/10.1192/bjp.bp.113.128470") [(open-url: 'https://doi.org/10.1192/bjp.bp.113.128470')]
+* Hipes, C., Lucas, J., Phelan, J. C., White, R. C. (2016). The stigma of mental illness in the labor market. Social Science Research, 56, 16-25. (link-repeat: "https://doi.org/10.1016/j.ssresearch.2015.12.001") [(open-url: 'https://doi.org/10.1016/j.ssresearch.2015.12.001')]
+* McGahey, E., Waghorn, G., Lloyd, C., Morrissey, S., Williams, P. L. (2016). Formal plan for self-disclosure enhances supported employment outcomes among young people with severe mental illness. Early Intervention in Psychiatry, 10(2), 178-185. (link-repeat: "https://doi.org/10.1111/eip.12196") [(open-url: 'https://doi.org/10.1111/eip.12196')]
+* McGrath, M. O., Krysinska, K., Reavley, N. J., Andriessen, K. & Pirkis, J. (2023). Disclosure of Mental Health Problems or Suicidality at Work: A Systematic Review. International Journal of Environmental Research and Public Health, 20(5548), 1-19. (link-repeat: "https://doi.org/10.3390/ijerph20085548") [(open-url: 'https://doi.org/10.3390/ijerph20085548')]
+
+
+:: Literatuur Student {"position":"600,600","size":"100,100"}
+De literatuur bevestigt dat de genoemde voor- en nadelen in de praktijk kunnen voorkomen, wees je hiervan bewust.
+
+De volgende bronnen zijn gebruikt bij de voor- en nadelen die mensen hebben ervaren:
+* Gulliver, A., Griffiths, K. M. & Christensen, H. (2010). Perceived barriers and facilitators to mental health help-seeking in young people: a systematic review. BMC Psychiatry, 10(113), 1-9. (link-repeat: "https://doi.org/10.1186/1471-244X-10-113") [(open-url: 'https://doi.org/10.1186/1471-244X-10-113')]
+* Moses, T. (2010). Being treated differently: Stigma experiences with family, peers, and school staff among adolescents with mental health disorders. Social Science & Medicine, 70(7), 985-993. (link-repeat: "https://doi.org/10.1016/j.socscimed.2009.12.022") [(open-url: 'https://doi.org/10.1016/j.socscimed.2009.12.022')]
+* Storrie, K. Ahern, K & Tuckett, A. A systematic review: Students with mental health problems - A growing problem. International Journal of Nursing Practice, 16, 1-6. (link-repeat: "https://doi.org/10.1111/j.1440-172X.2009.01813.x") [(open-url: 'https://doi.org/10.1111/j.1440-172X.2009.01813.x')]
+
+
+:: Medewerker {"position":"2500,400","size":"100,100"}
+De keuzehulp bestaat uit drie onderdelen. Je kan zowel één als meerdere onderdelen bekijken. De volgorde waarin je de onderdelen bekijkt maakt niet uit. Kies voor de onderdelen waar jij behoefte aan hebt.
+* [[Ervaringen van voor- en nadelen over (niet) praten over mentale problemen->Voor- en nadelen Medewerker]]
+* [[Stellingen om jouw voorkeuren te achterhalen over (niet) praten over jouw mentale problemen->Stellingen Medewerker]]
+* [[Contactgegevens van mensen binnen de UM waarmee je zou kunnen praten->Contactgegevens Medewerker]]
+
+
+:: Normalisation x stigmaEN Employee {"position":"5100,975","size":"100,100"}
+''Part 2/3''
+
+Choose from the 2 statements below which one is most important to you.
+* [[I want to address the stigma surrounding mental health issues by talking about my mental health issues.->If participants choose statement 1 2 Employee]]
+* [[I do not want to concern myself with what others think when they know I have mental health issues.->If participants choose statement 2 2 Employee]]
+[[I do not know which one I think is more important.->If participants do not know 2 Employee]]
+
+
+:: Normalisation x stigmaEN Student {"position":"3500,975","size":"100,100"}
+''Part 2/3''
+
+Choose from the 2 statements below which one is most important to you.
+* [[I want to address the stigma surrounding mental health issues by talking about my mental health issues.->If participants choose statement 1 2 Student]]
+* [[I do not want to concern myself with what others think when they know I have mental health issues.->If participants choose statement 2 2 Student]]
+[[I do not know which one I think is more important.->If participants do not know 2 Student]]
+
+
+:: Normalisering x stigma Medewerker {"position":"2500,975","size":"100,100"}
+''Deel 2/3''
+
+Kies uit de 2 stellingen hieronder welke voor jou het belangrijkst is.
+* [[Ik wil het stigma rond mentale problemen aanpakken door over mijn mentale problemen te praten->Als deelnemers stelling 1 kiezen 2 Medewerker]]
+* [[Ik wil me niet druk maken over wat anderen denken als ze weten dat ik mentale problemen heb.->Als deelnemers stelling 2 kiezen 2 Medewerker]]
+[[Ik weet niet welke ik belangrijker vind.->Als deelnemers het niet weten 2 Medewerker]]
+
+
+:: Normalisering x stigma Student {"position":"900,975","size":"100,100"}
+''Deel 2/3''
+
+Kies uit de 2 stellingen hieronder welke voor jou het belangrijkst is.
+* [[Ik wil het stigma rond mentale problemen aanpakken door over mijn mentale problemen te praten->Als deelnemers stelling 1 kiezen 2 Student]]
+* [[Ik wil me niet druk maken over wat anderen denken als ze weten dat ik mentale problemen heb.->Als deelnemers stelling 2 kiezen 2 Student]]
+[[Ik weet niet welke ik belangrijker vind.->Als deelnemers het niet weten 2 Student]]
+
+
+:: Perceived actionable outcomes x stigma Medewerker {"position":"2500,725","size":"100,100"}
+''Deel 1/3''
+
+Kies uit de 2 stellingen hieronder welke voor jou het belangrijkst is.
+* [[Ik wil hulp/steun krijgen bij mijn mentale problemen en daarom wil ik mijn mentale problemen bespreken met iemand binnen de UM.->Als deelnemers stelling 1 kiezen 1 Medewerker]]
+* [[Ik wil me geen zorgen maken over wat anderen van mij denken als ze weten dat ik mentale problemen heb.->Als deelnemers stelling 2 kiezen 1 Medewerker]]
+[[Ik weet niet welke ik belangrijker vind.->Als deelnemers het niet weten 1 Medewerker]]
+
+
+:: Perceived actionable outcomes x stigma Student {"position":"900,725","size":"100,100"}
+''Deel 1/3''
+
+Kies uit de 2 stellingen hieronder welke voor jou het belangrijkst is.
+* [[Ik wil hulp/steun krijgen bij mijn mentale problemen en daarom wil ik mijn mentale problemen bespreken met iemand binnen de UM.->Als deelnemers stelling 1 kiezen 1 Student]]
+* [[Ik wil me geen zorgen maken over wat anderen van mij denken als ze weten dat ik mentale problemen heb.->Als deelnemers stelling 2 kiezen 1 Student]]
+[[Ik weet niet welke ik belangrijker vind.->Als deelnemers het niet weten 1 Student]]
+
+
+:: Perceived actionable outcomes x stigmaEN Employee {"position":"5100,725","size":"100,100"}
+''Part 1/3''
+
+Choose from the 2 statements below which one is most important to you.
+* [[I want help/support with my mental health issues and that is why I want to discuss my mental health issues with someone at UM.->If participants choose statement 1 1 Employee]]
+* [[I do not want to worry about what others think of me if they know I have mental health issues.->If participants choose statement 2 1 Employee]]
+[[I do not know which one I think is more important.->If participants do not know 1 Employee]]
+
+
+:: Perceived actionable outcomes x stigmaEN Student {"position":"3500,725","size":"100,100"}
+''Part 1/3''
+
+Choose from the 2 statements below which one is most important to you.
+* [[I want help/support with my mental health issues and that is why I want to discuss my mental health issues with someone at UM.->If participants choose statement 1 1 Student]]
+* [[I do not want to worry about what others think of me if they know I have mental health issues.->If participants choose statement 2 1 Student]]
+[[I do not know which one I think is more important.->If participants do not know 1 Student]]
+
+
+:: Pros/cons Employee {"position":"4800,400","size":"100,100"}
+Below you can read the pros and cons of whether to talk about mental health issues within UM.
+
+The pros and cons are based on interviews with UM students and staff about their experiences and literature. However, this does not mean that you will experience these pros and cons in the same way. It is also possible that the pros and cons change over time. In addition, a pro can turn into a con in the long run and vice versa.
+
+[[Click here->Literature Employee]] for more information about the literature.
+
+''Pros of (text-style:"underline")[talking] about your mental health issues''
+
+When you talk about your mental health issues...
+* ... you might feel more understood.
+* ... you can receive support. 
+* ... it might result in more self-compassion. 
+* ... adjustments can be made regarding your work.
+* ... it can help to feel relieved. 
+* ... you will find out that you are not alone and can support each other. 
+* ... it might lead to a better relationship with colleagues. 
+* ... it can help you deal with your issues better. 
+* ... it can lead to positive reactions.
+* ... people can help you by thinking along about solutions if you are not doing well.
+* ... you do not have to make excuses if you cannot do things.
+* ... it can make it easier for others to talk about their mental health issues as well.
+''Cons of (text-style:"underline")[talking] about your mental health issue''
+
+When you talk about your mental issues...
+* ... your career might be influenced negatively.
+* ... you might experience stigma, such as negative reactions or shame.
+* ... you might find it difficult. 
+* ... you might be afraid people will think you are not competent in doing your job.
+* ... you might feel like you are complaining.
+* ... people might give you advice or help you do not want.
+* ... people might misunderstand the situation about your mental health issues.
+* ... it does not always lead to more empathy or support from others.
+* ... it might lead to gossip.
+* ... you might feel like you burden others.
+* ... you might experience discrimination from colleagues. 
+* ... you can experience your problems more strongly, which could be difficult and painful.
+''Pros of (text-style:"underline")[not talking] about your mental health issues''
+
+When you do not talk about your mental health issues...
+* ... people will not treat you differently. 
+* ... you might not experience stigma (e.g., negative reactions). 
+* ... others will not ask about them.
+''Cons of (text-style:"underline")[not talking] about your mental health issues''
+
+When you do not talk about your mental health issues...
+* ... and you are not doing well, this might influence your job performance, but others might think you are not able to do your job.
+* ... and you do not show up to anything because of that, people might think you are not a member of the team.
+* ... and you are not doing well, this might influence your job performance, which might make you afraid of being fired.
+* ... nothing will change.
+* ... it might be a stressful experience.
+
+Would you like to read ''another part'' of the decision aid? [[Click here->Employee]]
+Do you want to go to the ''end'' of the decision aid? [[Click here->End Employee]]
+
+
+:: Pros/cons Student {"position":"3200,400","size":"100,100"}
+Below you can read the pros and cons of whether to talk about mental health issues within UM.
+
+The pros and cons are based on interviews with UM students and staff about their experiences and literature. However, this does not mean that you will experience these pros and cons in the same way. It is also possible that the pros and cons change over time. In addition, a pro can turn into a con in the long run and vice versa.
+
+[[Click here->Literature Student]] for more information about the literature.
+
+''Pros of (text-style:"underline")[talking] about your mental health issues''
+
+When you talk about your mental health issues...
+* ... people can help you by thinking along about solutions if you are not doing well.
+* ... you can create a safe environment where you can turn to when you are not doing well.
+* ... you will find out that you are not alone.
+* ... there may be a possibility that something in your study circumstances will be adjusted.
+* ... you might feel more at ease. 
+* ... you might feel more understood.
+* ... it can make it easier for others to talk about their mental health issues as well.  
+''Cons of (text-style:"underline")[talking] about your mental health issue''
+
+When you talk about your mental issues...
+* ... you might experience stigma, such as negative reactions or shame.
+* ... it may feel like it takes a lot of time and energy to talk about this.
+* ... you might feel like it is not useful. 
+* ... you might feel like you are not taken seriously or that people do not know how to help you.
+* ... you might feel like you burden others.
+* ... you may worry that it will affect your career.
+* ... you can experience your problems more strongly, which could be difficult and painful.
+''Pros of (text-style:"underline")[not talking] about your mental health issues''
+
+When you do not talk about your mental health issues...
+* ... people will not treat you differently. 
+* ... people cannot react unpleasantly to your mental health issues. 
+* ... you can not get unsolicited help.
+* ... you might not experience stigma.
+* ... you will not experience anxiety that you do experience when you actually start talking about your mental health issues. 
+* ... you keep your privacy.
+''Cons of (text-style:"underline")[not talking] about your mental health issues''
+
+When you do not talk about your mental health issues...
+* ... people will not understand why you (not) do certain things. 
+* ... nothing will change.
+* ... your issues might become worse.
+* ... and you are not doing well, this might influence your study and others will not know why.
+Would you like to read ''another part'' of the decision aid? [[Click here->StudentEN]]
+Do you want to go to the ''end'' of the decision aid? [[Click here->End Student]]
+
+
+:: Statements Student {"position":"3500,600","size":"100,100"}
+In this part of the decision aid, you can use statements to find out what you think is important when deciding whether you want to talk to someone from UM about your mental health issues.
+
+A total of six statements are shown. Two statements are always shown. You can choose for yourself what is most important to you. There is no right or wrong answer. It is only about what is important to you.
+
+[[Next->Perceived actionable outcomes x stigmaEN Student]]
+
+
+:: Statements employee {"position":"5100,600","size":"100,100"}
+In this part of the decision aid, you can use statements to find out what you think is important when deciding whether you want to talk to someone from UM about your mental health issues.
+
+A total of six statements are shown. Two statements are always shown. You can choose for yourself what is most important to you. There is no right or wrong answer. It is only about what is important to you.
+
+[[Next->Perceived actionable outcomes x stigmaEN Employee]]
+
+
+:: Stellingen Medewerker {"position":"2500,600","size":"100,100"}
+In dit onderdeel van de keuzehulp kun je met behulp van stellingen nagaan wat jij belangrijk vindt rondom de beslissing of je wel of niet met iemand van de UM wilt praten over je mentale problemen.
+
+In totaal worden er zes stellingen getoond. Er worden steeds twee stellingen getoond. Je kunt dan voor jezelf kiezen wat voor jou het belangrijkste is. Er is geen goed of fout antwoord. Het gaat enkel om wat voor jou belangrijk is.
+
+[[Volgende->Perceived actionable outcomes x stigma Medewerker]]
+
+
+:: Stellingen Student {"position":"900,600","size":"100,100"}
+In dit onderdeel van de keuzehulp kun je met behulp van stellingen nagaan wat jij belangrijk vindt rondom de beslissing of je wel of niet met iemand van de UM wilt praten over je mentale problemen.
+
+In totaal worden er zes stellingen getoond. Er worden steeds twee stellingen getoond. Je kunt dan voor jezelf kiezen wat voor jou het belangrijkste is. Er is geen goed of fout antwoord. Het gaat enkel om wat voor jou belangrijk is.
+
+[[Next->Perceived actionable outcomes x stigma Student]]
+
+
+:: StudentEN {"position":"3500,400","size":"100,100"}
+The decision aid consists of three parts. You can view one or more parts. The order in which you view the parts does not matter. Choose the parts you would like to read.
+* [[Experiences of pros and cons of (not) talking about mental health issues.->Pros/cons Student]]
+* [[Statements to figure out your preferences regarding (not) talking about mental health issues.->Statements Student]]
+* [[Contact details of people within UM that you could talk to.->Contact details Student]]
+
+
+:: StudentNL {"position":"900,400","size":"100,100"}
+De keuzehulp bestaat uit drie onderdelen. Je kan zowel één als meerdere onderdelen bekijken. De volgorde waarin je de onderdelen bekijkt maakt niet uit. Kies voor de onderdelen waar jij behoefte aan hebt.
+* [[Ervaringen van voor- en nadelen over (niet) praten over mentale problemen->Voor- en nadelen Student]]
+* [[Stellingen om jouw voorkeuren te achterhalen over (niet) praten over jouw mentale problemen->Stellingen Student]]
+* [[Contactgegevens van mensen binnen de UM waarmee je zou kunnen praten->Contactgegevens Student]]
+
+
+:: Studiegerelateerd probleem {"position":"1400,400","size":"100,100"}
+Studieadviseurs geven in de eerste plaats advies met betrekking tot academische zaken, maar zij kunnen je ook doorverwijzen naar de juiste hulpbronnen binnen of buiten de UM. De studieadviseur is ook degene met wie je kan praten zodra je merkt dat je studievertraging oploopt of verwacht deze te gaan oplopen (bijvoorbeeld door ziekte of familieomstandigheden).
+
+(link-repeat: "Klik hier") [(open-url: 'https://www.maastrichtuniversity.nl/nl/support/tijdens-je-studie/studentenbegeleiding/studieadviseurs')] voor meer informatie over de studieadviseurs.
+
+Daarnaast kan je ook altijd met je docent over je mentale problemen praten als je dat fijn vindt.
+
+Wil je ''andere contactgegevens'' bekijken? [[Klik hier->Contactgegevens Student]]
+Wil je een ''ander onderdeel'' van de keuzehulp bekijken? [[Klik hier->StudentNL]]
+Wil je naar het ''einde'' van de keuzehulp? [[Klik hier->Einde Student]]
+
+
+:: Study-related problem {"position":"4000,400","size":"100,100"}
+Study advisers primarily provide advice on academic matters, but they can also refer you to the right resources within or outside UM. The study adviser is also the person you can talk to as soon as you notice that your studies are falling behind or expect to fall behind (for example due to illness or family circumstances).
+
+(link-repeat: "Click here") [(open-url: 'https://www.maastrichtuniversity.nl/support/during-your-studies/student-guidance/study-advisers')] for more information about the study advisers.
+
+In addition, you can always talk with your teacher about your mental health issues if you prefer.
+
+Would you like to view ''other contact details''? [[Click here->Contact details Student]]
+Would you like to read ''another part'' of the decision aid? [[Click here->StudentEN]]
+Do you want to go to the ''end'' of the decision aid? [[Click here->End Student]]
+
+
+:: Urgent help Employee {"position":"5300,200","size":"100,100"}
+In case of emergency or life-threatening situations, call 112.
+
+Available support in case you need immediate psychological help:
+* (link-repeat: "General practitioner (within office hours)") [(open-url: 'https://www.maastrichtuniversity.nl/support/during-your-studies/student-guidance/psychological-support/how-dutch-health-care-system')]
+* (link-repeat: "GP Emergency Post (outside office hours)") [(open-url: 'https://hapmaastricht.nl/en/')]
+* (link-repeat: "Confidential advisor") [(open-url: 'https://intranet.maastrichtuniversity.nl/en/um-employees/working-um-all-about-your-employment-0/safe-working-environment-0/confidential-advisor')]
+* (link-repeat: "Suicidal thoughts") [(open-url: 'https://www.maastrichtuniversity.nl/suicidal-thoughts')]
+* (link-repeat: "Victim support") [(open-url: 'https://www.slachtofferhulp.nl/english/')]
+* (link-repeat: "Domestic violence or assault") [(open-url: 'https://veiligthuis.nl/veilig-thuis-is-there-for-everyone/')]
+* (link-repeat: "113 Suicide prevention") [(open-url: 'https://www.113.nl/english')]
+* (link-repeat: "Sexual Assault Center") [(open-url: 'https://centrumseksueelgeweld.nl/en/home-english/')]
+* (link-repeat: "Police") [(open-url: 'https://www.politie.nl/en')]
+
+
+:: Urgent help Student {"position":"3300,200","size":"100,100"}
+In case of emergency or life-threatening situations, call 112.
+
+Available support in case you need immediate psychological help:
+* (link-repeat: "General practitioner (within office hours)") [(open-url: 'https://www.maastrichtuniversity.nl/support/during-your-studies/student-guidance/psychological-support/how-dutch-health-care-system')]
+* (link-repeat: "GP Emergency Post (outside office hours)") [(open-url: 'https://hapmaastricht.nl/en/')]
+* (link-repeat: "Confidential advisor") [(open-url: 'https://www.maastrichtuniversity.nl/support/during-your-studies/student-guidance/confidential-advisor-students')]
+* (link-repeat: "Suicidal thoughts") [(open-url: 'https://www.maastrichtuniversity.nl/suicidal-thoughts')]
+* (link-repeat: "Victim support") [(open-url: 'https://www.slachtofferhulp.nl/english/')]
+* (link-repeat: "Domestic violence or assault") [(open-url: 'https://veiligthuis.nl/veilig-thuis-is-there-for-everyone/')]
+* (link-repeat: "113 Suicide prevention") [(open-url: 'https://www.113.nl/english')]
+* (link-repeat: "Sexual Assault Center") [(open-url: 'https://centrumseksueelgeweld.nl/en/home-english/')]
+* (link-repeat: "Police") [(open-url: 'https://www.politie.nl/en')]
+
+
+:: Voor- en nadelen Medewerker {"position":"2200,400","size":"100,100"}
+Hieronder kan je de voor- en nadelen van wel of niet praten over mentale problemen binnen de UM lezen. 
+
+De voor- en nadelen zijn gebaseerd op interviews met de studenten en medewerkers over hun ervaringen rondom (niet) praten over mentale problemen binnen de UM en literatuur. Echter, dit betekent niet dat jij deze voor- en nadelen hetzelfde zal ervaren. Het kan ook zijn dat voor- en nadelen over tijd veranderen. Daarnaast kan een voordeel op de lange termijn veranderen in een nadeel en andersom. 
+
+[[Klik hier->Literatuur Medewerker]] voor meer informatie over de literatuur.
+
+''Voordelen van (text-style:"underline")[wel praten] over je mentale problemen''
+
+Als je praat over je mentale problemen dan...
+* ... kan je het gevoel krijgen dat je beter begrepen wordt. 
+* ... kan je ondersteuning ontvangen. 
+* ... kan dit zorgen voor zelfcompassie.
+* ... kunnen er aanpassingen worden getroffen rondom je werk. 
+* ... kan er een last van je schouders afvallen. 
+* ... kan je erachter komen dat je niet alleen bent en elkaar kan helpen. 
+* ... kan er een betere band ontstaan tussen jou en je collega’s. 
+* ... kan dit je helpen beter om te gaan met je problemen.
+* ... kan dit zorgen voor positieve reacties van anderen. 
+* ... kunnen mensen je helpen door met je mee te denken in oplossingen als het niet goed met je gaat.
+* ...  hoef je geen excuses te bedenken als dingen niet lukken.
+* ... kan het makkelijker worden voor anderen om ook te praten over hun mentale problemen.
+''Nadelen van (text-style:"underline")[wel praten] over je mentale problemen''
+
+Als je praat over je mentale problemen dan...
+* ... kan je carrière negatief beïnvloed worden.
+* ... kan je stigma ervaren, bijvoorbeeld in de vorm van negatieve reacties of schaamte.
+* ... kan dit erg lastig zijn. 
+* ... kan je vrezen dat mensen denken dat je je werk niet goed kan doen.
+* ... kan je het gevoel krijgen dat je klaagt.
+* ... kunnen mensen je ongevraagd advies of hulp geven die je niet wilt.
+* ... kan dit ervoor zorgen dat mensen de situatie rondom je mentale problemen verkeerd begrijpen.
+* ... leidt dat niet altijd direct tot empathie of steun van anderen.
+* ... kan er geroddeld worden. 
+* ... kan je het gevoel krijgen dat je andere mensen opzadelt met jouw problemen. 
+* ... kan je discriminatie van je collega’s ervaren.
+* ... kan je daardoor de problemen sterker ervaren, wat moeilijk en pijnlijk kan zijn.
+''Voordelen van (text-style:"underline")[niet praten] over je mentale problemen''
+
+Als je niet praat over je mentale problemen dan...
+* ... zullen mensen je niet anders behandelen. 
+* ... zal je geen  stigma ervaren, zoals nare reacties.
+* ... zullen anderen er ook niet naar vragen. 
+''Nadelen van (text-style:"underline")[niet praten] over je mentale problemen''
+
+Als je niet praat over je mentale problemen dan...
+* … kan dit de uitvoering van je werk beïnvloeden wanneer het niet goed met je gaat. Andere kunnen dan denken dat je niet in staat bent om je werk uit te voeren. 
+* … kunnen mensen denken dat je geen deel uit wilt maken van het team wanneer je niet op komt dagen. 
+* … kan dit je werk beïnvloeden wanneer het niet goed met je gaat, waardoor je kan vrezen voor ontslag. 
+* … zal niks veranderen. 
+* ... kan dit als stressvol worden ervaren.  
+
+
+Wil je een ''ander onderdeel'' van de keuzehulp bekijken? [[Klik hier->Medewerker]]
+Wil je naar het ''einde'' van de keuzehulp? [[Klik hier->Einde Medewerker]]
+
+
+:: Voor- en nadelen Student {"position":"600,400","size":"100,100"}
+Hieronder kan je de voor- en nadelen van wel of niet praten over mentale problemen binnen de UM lezen. 
+
+De voor- en nadelen zijn gebaseerd op interviews met de studenten en medewerkers over hun ervaringen rondom (niet) praten over mentale problemen binnen de UM en literatuur. Echter, dit betekent niet dat jij deze voor- en nadelen hetzelfde zal ervaren. Het kan ook zijn dat voor- en nadelen over tijd veranderen. Daarnaast kan een voordeel op de lange termijn veranderen in een nadeel en andersom. 
+
+[[Klik hier->Literatuur Student]] voor meer informatie over de literatuur.
+
+''Voordelen van (text-style:"underline")[wel praten] over je mentale problemen''
+
+Als je praat over je mentale problemen dan...
+* ... kunnen mensen je helpen door met je mee te denken in oplossingen als het niet goed met je gaat. 
+* ... kan je een veilige omgeving creëren waar je terecht kan als het niet goed met je gaat. 
+* ... kom je erachter dat je niet alleen bent. 
+* ... zijn er eventueel mogelijkheden dat er iets in je studieomstandigheden wordt aangepast.
+* ... kan er een last van je schouders afvallen. 
+* ... kan je het gevoel krijgen dat je beter wordt begrepen. 
+* ... kan het makkelijker worden voor anderen om ook te praten over hun mentale problemen. 
+''Nadelen van (text-style:"underline")[wel praten] over je mentale problemen''
+
+Als je praat over je mentale problemen dan...
+* ... kan je stigma ervaren, bijvoorbeeld in de vorm van negatieve reacties of schaamte.
+* ... kan het voelen dat het veel tijd en energie kost om hierover te praten.
+* ... kan het voelen dat het niet nuttig is. 
+* ... kan het zijn dat mensen je niet serieus nemen of niet weten hoe ze kunnen helpen
+* ... kan je dat het gevoel geven dat je andere mensen opzadelt met jouw problemen. 
+* ... kan je je zorgen maken dat het invloed heeft op je carrière.
+* ... kan je daardoor je problemen sterker ervaren, wat moeilijk en pijnlijk kan zijn.
+''Voordelen van (text-style:"underline")[niet praten] over je mentale problemen''
+
+Als je niet over je mentale problemen praat dan...
+* ... behandelen mensen je niet anders, omdat ze niet van je mentale problemen afweten.
+* ... kunnen mensen geen nare reacties geven over je mentale problemen.
+* ... zal je geen ongevraagde hulp krijgen.
+* ... zal je geen stigma ervaren. 
+* ... zal je geen angstgevoelens ervaren die je wel ervaart wanneer je daadwerkelijk gaat praten over je mentale problemen.
+* ... behoud je je privacy.
+''Nadelen van (text-style:"underline")[niet praten] over je mentale problemen''
+
+Als je niet praat over je mentale problemen dan...
+* ... begrijpen mensen niet waarom je sommige dingen niet doet, omdat ze niet van je mentale problemen afweten.
+* ... zal niks veranderen. 
+* ... kunnen je klachten verergeren.
+* ... kan je studie beïnvloed worden als het niet goed gaat, terwijl anderen niet weten waarom.
+Wil je een ''ander onderdeel'' van de keuzehulp bekijken? [[Klik hier->StudentNL]]
+Wil je naar het ''einde'' van de keuzehulp? [[Klik hier->Einde Student]]
+
+
+:: Welcome [center-align] {"position":"3000,100","size":"100,100"}
+<img src="https://thomasgultzow.com/project/opening-up/logo_openingup_hufa16933836c787c9347980b49b3b2e10_57949_720x2500_fit_q75_h2_lanczos_3.webp" alt="Opening Up Logo" height="200" width="200"/>
+
+Welcome to the Opening Up decision aid! 
+<span style="font-size: 50%; font-style: italic;">Please note that the decision aid is in the 'open beta' phase. At the end, you can participate in our scientific evaluation and take part in a raffle to win a €20 voucher.</span>
+
+Do you prefer [[ Nederlands->Functie]] or [[English->Function]]?
+
+<div id="options" style="position: fixed; bottom: 0; left: 0; width: 100%; text-align: center; font-family: Ubuntu, sans-serif;">
+    <p style="font-size: small; margin: 0; color: black;">
+        This decision aid was created using <a href="https://twinery.org/" target="_blank" style="color: #E84E10; text-decoration: none;">Twine</a>, specifically the <a href="https://twine2.neocities.org/" target="_blank" style="color: #E84E10; text-decoration: none;">Harlowe story format</a>, an open-source tool.
+    </p>
+</div>
+
+
+
+:: Wellbeing or mental health {"position":"4000,200","size":"100,100"}
+For questions about your well-being or mental health, you can use the online Quick Psychological Referral (QPR) of the UM psychologists. An online QPR is a short ten-minute conversation with a UM psychologist, in which you can describe your current situation and ask your most relevant questions. The UM psychologist will then refer you to the right care, both within and outside UM.
+
+(link-repeat: "Click here") [(open-url: 'https://www.maastrichtuniversity.nl/support/during-your-studies/student-guidance/psychological-support/online-quick-psychological')] for more information about the UM psychologists.
+
+Would you like to view ''other contact details''? [[Click here->Contact details Student]]
+Would you like to read ''another part'' of the decision aid? [[Click here->StudentEN]]
+Do you want to go to the ''end'' of the decision aid? [[Click here->End Student]]
+
+
+:: Welzijn of mentale gezondheid {"position":"1400,200","size":"100,100"}
+Voor vragen over je welzijn of mentale gezondheid kan je gebruik maken van de online Quick Psychological Referral (QPR) van de UM psychologen. Een online QPR is een kort gesprek van tien minuten met een UM psycholoog, waarin je jouw huidige situatie kunt beschrijven en je meest relevante vragen kunt stellen. De UM psycholoog zal je vervolgens doorverwijzen naar de juiste zorg, zowel binnen als buiten de UM. 
+
+(link-repeat: "Klik hier") [(open-url: 'https://www.maastrichtuniversity.nl/nl/support/tijdens-je-studie/studentenbegeleiding/psychische-ondersteuning/walk-quick-psychological')] voor meer informatie over de UM psychologen.
+
+Wil je ''andere contactgegevens'' bekijken? [[Klik hier->Contactgegevens Student]]
+Wil je een ''ander onderdeel'' van de keuzehulp bekijken? [[Klik hier->StudentNL]]
+Wil je naar het ''einde'' van de keuzehulp? [[Klik hier->Einde Student]]
+
+
+:: StoryStylesheet [stylesheet]
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+
+tw-story {
+
+                background-color: white;
+
+                color: black;
+
+                font-family: Ubuntu, sans-serif;
+
+                class: center
+
+}
+
+ 
+
+.enchantment-link, tw-link {
+
+                color: #E84E10;
+
+}
+
+ 
+
+.enchantment-link:hover, tw-link:hover {
+
+                color: #00A2DB;
+
+}
+
+ 
+
+tw-passage[tags="center-align"] {
+
+                text-align: center;
+
+}
+
+#center {
+text-align: center;
+}
+
+#options {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+#options p {
+    font-size: small !important;
+    margin: 0;
+}
